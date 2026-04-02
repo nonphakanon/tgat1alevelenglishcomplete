@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://script.google.com/macros/s/AKfycbzWJgKUzO-znt8yfr7OBvfrr9fx47iYwVa2DsfAeBbzJjp8J0nfYgsZ8PX_-LVPOU0dGw/exec",
+      "destination": "https://bio.link/gatengthailand",
       "permanent": false
     }
   ]
